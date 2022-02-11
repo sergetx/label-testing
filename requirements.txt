@@ -36,7 +36,7 @@ pandas==1.0.3
 Pillow==6.2.1
 pkg-resources==0.0.0
 pkginfo==1.5.0.1
-protobuf==3.12.1
+protobuf==3.15.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 label-studio==0.7.0
